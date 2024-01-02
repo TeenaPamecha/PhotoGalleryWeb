@@ -1,0 +1,124 @@
+{
+	"resources": [
+		{
+			"asset_id": "1",
+			"public_id": "swiki/Nature_photography#/media",
+			"format": "jpg",
+			"version": 1621495552,
+			"resource_type": "image",
+			"created_at": "2021-09-10T07:25:52Z",
+			"bytes": 7858062,
+			"width": 10906,
+			"height": 2349,
+			"url": "https://en.wikipedia.org/wiki/Nature_photography#/media/File:Altja_j%C3%B5gi_Lahemaal.jpg"
+		},
+		{
+			"asset_id": "2",
+			"public_id": "wiki/Nature_photography#/media",
+			"format": "jpg",
+			"version": 1621495551,
+			"resource_type": "image",
+			"created_at": "2021-09-10T07:25:51Z",
+			"bytes": 6620002,
+			"width": 320,
+			"height": 180,
+			"url": "https://en.wikipedia.org/wiki/Nature_photography#/media/File:Canyon_de_Chelly_panorama_of_valley_from_mountain.jpg"
+		},
+		{
+			"asset_id": "3",
+			"public_id": "wiki/Nature_photography#/media",
+			"format": "jpg",
+			"version": 1621495550,
+			"resource_type": "image",
+			"created_at": "2021-05-20T07:25:50Z",
+			"bytes": 3171453,
+			"width": 3000,
+			"height": 2000,
+			"url": "https://en.wikipedia.org/wiki/Nature_photography#/media/File:43._View_from_Round_Top.jpg"
+		},
+		{
+			"asset_id": "4",
+			"public_id": "wiki/Nature_photography#/media",
+			"format": "jpg",
+			"version": 1621495550,
+			"resource_type": "image",
+			"created_at": "2021-05-20T07:25:50Z",
+			"bytes": 2856169,
+			"width": 3000,
+			"height": 1526,
+			"url": "https://en.wikipedia.org/wiki/Nature_photography#/media/File:Colibr%C3%AD_Cola_de_Oro_(Golden-tailed_Sapphire_Hummingbird)_Bigger_File.jpg"
+		},
+		{
+			"asset_id": "5",
+			"public_id": "wiki/Nature_photography#/media",
+			"format": "jpg",
+			"version": 1621495549,
+			"resource_type": "image",
+			"created_at": "2021-05-20T07:25:49Z",
+			"bytes": 2129950,
+			"width": 2000,
+			"height": 2000,
+			"url": "hhttps://en.wikipedia.org/wiki/Nature_photography#/media/File:Asian_Elephant_Elephas_maximus.jpg"
+		},
+		{
+			"asset_id": "6",
+			"public_id": "wiki/Nature_photography#/media",
+			"format": "jpg",
+			"version": 1621495549,
+			"resource_type": "image",
+			"created_at": "2021-05-20T07:25:49Z",
+			"bytes": 1487070,
+			"width": 2800,
+			"height": 1867,
+			"url": "https://en.wikipedia.org/wiki/Nature_photography#/media/File:Metsasitikas.jpg"
+		},
+		{
+			"asset_id": "7",
+			"public_id": "wiki/Nature_photography#/media",
+			"format": "jpg",
+			"version": 1621495548,
+			"resource_type": "image",
+			"created_at": "2021-05-20T07:25:48Z",
+			"bytes": 1459256,
+			"width": 3000,
+			"height": 2000,
+			"url": "https://en.wikipedia.org/wiki/Nature_photography#/media/File:Formica_polyctena_2.jpg"
+		},
+		{
+			"asset_id": "8",
+			"public_id": "wiki/Nature_photography#/media",
+			"format": "jpg",
+			"version": 1621495548,
+			"resource_type": "image",
+			"created_at": "2021-05-20T07:25:48Z",
+			"bytes": 1323582,
+			"width": 2385,
+			"height": 1590,
+			"url": "https://en.wikipedia.org/wiki/Nature_photography#/media/File:Cloudscape_CHD.JPG"
+		},
+		{
+			"asset_id": "9",
+			"public_id": "wiki/Nature_photography#/media",
+			"format": "jpg",
+			"version": 1621495548,
+			"resource_type": "image",
+			"created_at": "2021-05-20T07:25:48Z",
+			"bytes": 1254103,
+			"width": 2000,
+			"height": 2667,
+			"url": "https://en.wikipedia.org/wiki/Nature_photography#/media/File:CloudColors.jpg"
+		},
+		{
+			"asset_id": "10",
+			"public_id": "wiki/Nature_photography#/media",
+			"format": "jpg",
+			"version": 1621495547,
+			"resource_type": "image",
+			"created_at": "2021-05-20T07:25:47Z",
+			"bytes": 1235823,
+			"width": 2600,
+			"height": 1950,
+			"url": "https://en.wikipedia.org/wiki/Nature_photography#/media/File:Cloudscape_CHD.JPG"
+		}
+	]
+}
